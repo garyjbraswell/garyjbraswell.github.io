@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://garyjbraswell-phd.github.io/sitemap.xml
