@@ -22,11 +22,9 @@
   overflow-wrap: anywhere;
 }
 
-/* Education entries intentionally have no dates or locations. The shared CV
-   template still emits an empty date badge / location pin (and its wrapper
-   table) from the blank fields, so hide that whole left-column table for the
-   Education card only. The empty grid column stays, keeping the degree text
-   aligned with the Experience and Publications entries above and below. */
-#education + .card .date-column .table-cv {
+/* Education entries show dates but have no location. The shared CV template
+   still emits an empty location pin from the blank location field, so hide just
+   that for the Education card (the date badge stays visible). */
+#education + .card .location {
   display: none;
 }

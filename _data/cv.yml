@@ -21,7 +21,7 @@ cv:
     Experience:
       - position: Vice President of Technology
         company: Travtus
-        location: London, United Kingdom / United States
+        location: London, UK
         start_date: 2024
         end_date: 2025
         highlights:
@@ -74,15 +74,23 @@ cv:
     Education:
       - studyType: PhD in Information Systems
         institution: Kennesaw State University, Coles College of Business
+        start_date: 2025
+        end_date: 2028
 
-      - studyType: Master of Business Administration (MBA)
+      - studyType: Master of Business Information Systems
         institution: Georgia State University, J. Mack Robinson College of Business
+        start_date: 1993
+        end_date: 1996
 
       - studyType: Master of Science in Electrical Engineering
         institution: University of Alabama in Huntsville
+        start_date: 1989
+        end_date: 1993
 
-      - studyType: Bachelor of Science in Computer Engineering
+      - studyType: Bachelor of Science in Electrical Engineering
         institution: Mississippi State University
+        start_date: 1984
+        end_date: 1988
 
     Publications:
       - title: "Innovative Work Behavior and Job Demands with AI Use in Software Development"
