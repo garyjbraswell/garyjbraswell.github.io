@@ -1,0 +1,13 @@
+/*******************************************************************************
+ * Custom overrides for www.garyjbraswell.phd
+ * Site-specific tweaks live here so the al-folio plugin gem files stay
+ * untouched. This file is loaded last from assets/css/main.scss.
+ ******************************************************************************/
+
+/* Trim the fixed navbar's vertical padding so the bar sits a little higher and
+   stops overlapping the page title on narrower viewports. Raise these values to
+   nudge the bar back down, lower them to move it further up. */
+#navbar.navbar {
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+}

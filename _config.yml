@@ -12,8 +12,7 @@ github_username: garyjbraswell
 linkedin_username:
 scholar_userid:
 orcid_id:
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student in Information Systems at Kennesaw State University.
 footer_text: >
@@ -341,8 +340,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Braswell]
+  first_name: [Gary, Gary J., G.]
 
   style: apa
   locale: en
