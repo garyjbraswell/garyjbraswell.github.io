@@ -1,9 +1,18 @@
 ---
 layout: course
-title: Introduction to Machine Learning
-description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
-instructor: Prof. Example
-year: 2023
+title: "CIS8020: Systems Integration"
+description: >
+  CIS 8020: Systems Integration is a graduate-level course offered by Georgia
+  State University's Robinson College of Business that bridges the gap between
+  enterprise business strategy and advanced software engineering. The curriculum
+  focuses on the theoretical frameworks and practical methodologies needed to
+  connect disparate IT systems, platforms, and legacy applications into a
+  cohesive ecosystem that optimizes data flow and organizational efficiency.
+  Students explore enterprise architecture (EA), middleware and API management,
+  service-oriented architectures (SOA), and process orchestration, learning to
+  manage the entire operational lifecycle of integrated technical systems to
+  drive digital transformation.
+year: 2011
 term: Fall
 location: Main Campus, Room 301
 time: Tuesdays and Thursdays, 10:00-11:30 AM

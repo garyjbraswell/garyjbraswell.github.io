@@ -1,6 +1,13 @@
 ---
 version: 1
 overrides:
+  _includes/courses.liquid:
+    owner: al_folio_core
+    gem_version: 1.0.9
+    upstream_path: _includes/courses.liquid
+    upstream_sha256: b302f66998945adce1c1bdd396a0123236e4c6b68d198f8bc092e4334b9d10fd
+    local_sha256: '0880f5e001296614db38c1550400a4f506cf00030994f18b80f7cacabf11832f'
+    acknowledged_at: '2026-07-01'
   _layouts/about.liquid:
     owner: al_folio_core
     gem_version: 1.0.9

@@ -1,10 +1,14 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
+title: "IS2200: Information Systems and Communication"
+description: >
+  IS 2200 (Information Systems and Communication) is a foundational course at
+  Kennesaw State University (KSU). It provides an overview of essential
+  information systems technologies and their applications to real-world
+  scenarios, while also emphasizing the development of communication skills
+  appropriate for a professional business environment.
+year: 2026
+term: Fall
 location: Science Building, Room 202
 time: Mondays and Wednesdays, 2:00-3:30 PM
 course_id: data-science-fundamentals
