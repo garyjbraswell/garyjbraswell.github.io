@@ -11,3 +11,22 @@
   padding-top: 0.15rem;
   padding-bottom: 0.15rem;
 }
+
+/* CV: keep the left date column fixed to its grid width so a long location line
+   can't widen the table and push the centered date badge into the job title. */
+.cv .date-column .table-cv {
+  width: 100%;
+  table-layout: fixed;
+}
+.cv .date-column .location {
+  overflow-wrap: anywhere;
+}
+
+/* Education entries intentionally have no dates or locations. The shared CV
+   template still emits an empty date badge / location pin (and its wrapper
+   table) from the blank fields, so hide that whole left-column table for the
+   Education card only. The empty grid column stays, keeping the degree text
+   aligned with the Experience and Publications entries above and below. */
+#education + .card .date-column .table-cv {
+  display: none;
+}
